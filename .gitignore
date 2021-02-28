@@ -1,1 +1,4 @@
 __pycache__/
+beamfed.egg-info/
+build/
+dist/
